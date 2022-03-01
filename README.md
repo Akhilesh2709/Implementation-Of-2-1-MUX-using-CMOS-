@@ -1,11 +1,11 @@
 
-### Implementation Of 2:1 MUX using CMOS 
+# Implementation Of 2:1 MUX using CMOS 
 
 
 This repository presents the design of 2:1 Multiplexer implemented using Synopsis Custom Compiler on 28nm CMOS Technology.
 
 
-##  Table Of Content
+###  Table Of Content
    * [Abstract](#Abstract)
    * [Detailed Explanation](#Detailed-Explanation)
    * [Reference Circuit](#Reference-Circuit)
@@ -51,14 +51,14 @@ There are two types of multiplexing- Time multiplexing and Frequency multiplexin
   src="![reference_schematic](https://user-images.githubusercontent.com/64627151/156149016-9a6d6f0b-530e-4a8c-a425-d0d2be715c58.jpeg)
 
 "><br />
-  REFERENCE CIRCUIT<br />
+ <br />
 </p>
 <p align="center">
 <img width="600"
      height="500"
   src="https://drive.google.com/file/d/1MqvUjWKFJoi-VWR8QIoZWLQxZHGnccpw/view?usp=sharing
 "><br />
-  REFERENCE WAVEFORM<br />
+  <br />
 </p>
 
 
@@ -77,7 +77,7 @@ There are two types of multiplexing- Time multiplexing and Frequency multiplexin
      height="600"
   src="![Schematic_circuit](https://user-images.githubusercontent.com/64627151/156147557-5411c50e-bfe7-4d74-b82e-c09b81cb0b1b.png)
 "><br />
- 2:1_Mux using CMOS Circuit <br />
+ <br />
 </p>
 
 
@@ -86,7 +86,7 @@ There are two types of multiplexing- Time multiplexing and Frequency multiplexin
      height="600"
   src="![Circuit_symbol](https://user-images.githubusercontent.com/64627151/156147661-3c6cd324-3c1f-47ad-8cdd-d3f109b7b203.png)
 "><br />
- 2:1_Mux using CMOS Circuit Symbol <br />
+  <br />
 </p>
 
  
@@ -95,7 +95,7 @@ There are two types of multiplexing- Time multiplexing and Frequency multiplexin
      height="600"
   src="![Circuit_Schematic_tb](https://user-images.githubusercontent.com/64627151/156147797-7705f8d6-a78c-41e9-8ad7-a1e1bcff20ef.png)
 "><br />
- 2:1_Mux using CMOS Circuit_tb <br />
+  <br />
 </p>
 
 
@@ -105,7 +105,7 @@ There are two types of multiplexing- Time multiplexing and Frequency multiplexin
 <img width="800"
      height="600"
   src="![Waveforms](https://user-images.githubusercontent.com/64627151/156134244-a3f4d666-f2f1-4a34-9fbc-2d8180528e2d.png)"><br />
- 2:1_Mux using CMOS Simulation_Waveforms <br />
+ <br />
 </p>
 
 Here first two waveforms are inputs A and B, and third waveform is Selection line. Output of the circuit is fourth waveform(Yellow colour).
