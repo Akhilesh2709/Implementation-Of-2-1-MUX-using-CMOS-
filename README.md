@@ -204,8 +204,4 @@ v4 net13 gnd! dc=1
 
 - https://www.electronics-tutorial.net/Digital-CMOSDesign/Pass-Transistor-Logic/2-1-MUX-using-transmissiongate/ 
 - Sameer Durgoji, Kunal Ghosh, "VSD Intern - 10-bit DAC design using eSim and Sky130"
-#� �I�m�p�l�e�m�e�n�t�a�t�i�o�n�-�O�f�-�2�-�1�-�M�U�X�-�u�s�i�n�g�-�C�M�O�S�-�
-�
-�#� �I�m�p�l�e�m�e�n�t�a�t�i�o�n�-�O�f�-�2�-�1�-�M�U�X�-�u�s�i�n�g�-�C�M�O�S�-�
-�
-�# Implementation-Of-2-1-MUX-using-CMOS-
+
