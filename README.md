@@ -46,15 +46,16 @@ There are two types of multiplexing- Time multiplexing and Frequency multiplexin
 ## Reference Circuit
   Reference Circuit and Waveforms 
 <p align="center">
-<img src="![reference_schematic](https://user-images.githubusercontent.com/64627151/156149016-9a6d6f0b-530e-4a8c-a425-d0d2be715c58.jpeg)">
-<br />
+<img width="600"
+     height="500"
+  src="img/reference_schematic.jpeg"><br />
+  REFERENCE CIRCUIT<br />
 </p>
 <p align="center">
 <img width="600"
      height="500"
-  src="https://drive.google.com/file/d/1MqvUjWKFJoi-VWR8QIoZWLQxZHGnccpw/view?usp=sharing
-"><br />
-  <br />
+  src="img/reference_waveform.jpeg"><br />
+  Reference Waveforms<br />
 </p>
 
 
@@ -71,27 +72,24 @@ There are two types of multiplexing- Time multiplexing and Frequency multiplexin
 <p align="center">
 <img width="800"
      height="600"
-  src="![Schematic_circuit](https://user-images.githubusercontent.com/64627151/156147557-5411c50e-bfe7-4d74-b82e-c09b81cb0b1b.png)
-"><br />
- <br />
+  src="img/Schematic_circuit.png"><br />
+ 2:1_mux circuit using CMOS <br />
 </p>
 
 
 <p align="center">
 <img width="800"
      height="600"
-  src="![Circuit_symbol](https://user-images.githubusercontent.com/64627151/156147661-3c6cd324-3c1f-47ad-8cdd-d3f109b7b203.png)
-"><br />
-  <br />
+  src="img/Circuit_symbol.png"><br />
+  2:1_mux circuit symbol<br />
 </p>
 
  
 <p align="center">
 <img width="800"
      height="600"
-  src="![Circuit_Schematic_tb](https://user-images.githubusercontent.com/64627151/156147797-7705f8d6-a78c-41e9-8ad7-a1e1bcff20ef.png)
-"><br />
-  <br />
+  src="img/Circuit_Schematic_tb.png"><br />
+  2:1_mux circuit schematic_tb<br />
 </p>
 
 
@@ -100,8 +98,8 @@ There are two types of multiplexing- Time multiplexing and Frequency multiplexin
 <p align="center">
 <img width="800"
      height="600"
-  src="![Waveforms](https://user-images.githubusercontent.com/64627151/156134244-a3f4d666-f2f1-4a34-9fbc-2d8180528e2d.png)"><br />
- <br />
+  src="img/Waveforms.png"><br />
+ 2:1_mux circuit Waveforms<br />
 </p>
 
 Here first two waveforms are inputs A and B, and third waveform is Selection line. Output of the circuit is fourth waveform(Yellow colour).
