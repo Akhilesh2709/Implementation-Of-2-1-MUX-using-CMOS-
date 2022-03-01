@@ -48,13 +48,13 @@ There are two types of multiplexing- Time multiplexing and Frequency multiplexin
 <p align="center">
 <img width="600"
      height="500"
-  src="![reference_schematic](https://user-images.githubusercontent.com/64627151/156127630-1e286c4a-2691-4e1d-9a12-c35d2075086f.jpeg)"><br />
+  src="https://drive.google.com/file/d/1CgRALb2BymeNn-agehWuT_KR1qoTqd9E/view?usp=sharing"><br />
   REFERENCE CIRCUIT<br />
 </p>
 <p align="center">
 <img width="600"
      height="500"
-  src="![reference_waveform](https://user-images.githubusercontent.com/64627151/156127169-48510ace-981a-4b50-94a6-0644b7929f40.jpeg)"><br />
+  src="https://drive.google.com/file/d/1MqvUjWKFJoi-VWR8QIoZWLQxZHGnccpw/view?usp=sharing"><br />
   REFERENCE WAVEFORM<br />
 </p>
 
