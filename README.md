@@ -46,12 +46,8 @@ There are two types of multiplexing- Time multiplexing and Frequency multiplexin
 ## Reference Circuit
   Reference Circuit and Waveforms 
 <p align="center">
-<img width="600"
-     height="500"
-  src="![reference_schematic](https://user-images.githubusercontent.com/64627151/156149016-9a6d6f0b-530e-4a8c-a425-d0d2be715c58.jpeg)
-
-"><br />
- <br />
+src="![reference_schematic](https://user-images.githubusercontent.com/64627151/156149016-9a6d6f0b-530e-4a8c-a425-d0d2be715c58.jpeg)
+<br />
 </p>
 <p align="center">
 <img width="600"
