@@ -48,13 +48,15 @@ There are two types of multiplexing- Time multiplexing and Frequency multiplexin
 <p align="center">
 <img width="600"
      height="500"
-  src="https://drive.google.com/file/d/1CgRALb2BymeNn-agehWuT_KR1qoTqd9E/view?usp=sharing"><br />
+  src="![reference_schematic](https://user-images.githubusercontent.com/64627151/156147191-dc7734d4-b30d-49e1-a8b3-d515a7c24258.jpeg)
+"><br />
   REFERENCE CIRCUIT<br />
 </p>
 <p align="center">
 <img width="600"
      height="500"
-  src="https://drive.google.com/file/d/1MqvUjWKFJoi-VWR8QIoZWLQxZHGnccpw/view?usp=sharing"><br />
+  src="![reference_waveform](https://user-images.githubusercontent.com/64627151/156147406-381f43e4-733c-431d-8c60-9bf50b5f0434.jpeg)
+"><br />
   REFERENCE WAVEFORM<br />
 </p>
 
@@ -72,7 +74,8 @@ There are two types of multiplexing- Time multiplexing and Frequency multiplexin
 <p align="center">
 <img width="800"
      height="600"
-  src="![Schematic_circuit](https://user-images.githubusercontent.com/64627151/156128358-65fb74f7-8e33-4efe-9880-111c6785c47f.png)"><br />
+  src="![Schematic_circuit](https://user-images.githubusercontent.com/64627151/156147557-5411c50e-bfe7-4d74-b82e-c09b81cb0b1b.png)
+"><br />
  2:1_Mux using CMOS Circuit <br />
 </p>
 
@@ -80,7 +83,8 @@ There are two types of multiplexing- Time multiplexing and Frequency multiplexin
 <p align="center">
 <img width="800"
      height="600"
-  src="![Circuit_symbol](https://user-images.githubusercontent.com/64627151/156128569-d176bdf8-ca92-4520-beef-802a497229ac.png)"><br />
+  src="![Circuit_symbol](https://user-images.githubusercontent.com/64627151/156147661-3c6cd324-3c1f-47ad-8cdd-d3f109b7b203.png)
+"><br />
  2:1_Mux using CMOS Circuit Symbol <br />
 </p>
 
@@ -88,7 +92,8 @@ There are two types of multiplexing- Time multiplexing and Frequency multiplexin
 <p align="center">
 <img width="800"
      height="600"
-  src="![Circuit_Schematic_tb](https://user-images.githubusercontent.com/64627151/156128771-9a699177-4aae-4a19-b7d6-1d319049ef19.png)"><br />
+  src="![Circuit_Schematic_tb](https://user-images.githubusercontent.com/64627151/156147797-7705f8d6-a78c-41e9-8ad7-a1e1bcff20ef.png)
+"><br />
  2:1_Mux using CMOS Circuit_tb <br />
 </p>
 
