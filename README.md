@@ -48,7 +48,8 @@ There are two types of multiplexing- Time multiplexing and Frequency multiplexin
 <p align="center">
 <img width="600"
      height="500"
-  src="https://drive.google.com/file/d/1CgRALb2BymeNn-agehWuT_KR1qoTqd9E/view?usp=sharing
+  src="![reference_schematic](https://user-images.githubusercontent.com/64627151/156149016-9a6d6f0b-530e-4a8c-a425-d0d2be715c58.jpeg)
+
 "><br />
   REFERENCE CIRCUIT<br />
 </p>
