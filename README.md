@@ -88,7 +88,7 @@ There are two types of multiplexing- Time multiplexing and Frequency multiplexin
 <p align="center">
 <img width="800"
      height="600"
-  src="img/Circuit_Schematic_tb.png"><br />
+  src="img/circuit_tb.png"><br />
   2:1_mux circuit schematic_tb<br />
 </p>
 
